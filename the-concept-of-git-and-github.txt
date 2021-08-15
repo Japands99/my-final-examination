@@ -1,0 +1,11 @@
+What Is Git?
+First developed back in 2005, Git is an extremely popular version control system that is at the heart of a wide variety of high-profile projects.
+Git is installed and maintained on your local system (rather than in the cloud) and gives you a self-contained record of your ongoing programming versions.
+It can be used completely exclusive of any cloud-hosting service — you don’t even need internet access, except to download it. 
+What Is GitHub?
+In the discussion of Git vs. GitHub, it’s been said that GitHub is to Git what Facebook is to your actual face. What’s that mean?
+Well, it means that while Facebook is kind of like an online face database (of sorts). GitHub is designed as a Git repository hosting service. 
+
+And what exactly is a Git repository hosting service? It’s an online database that allows you to keep track of and share your Git version control projects outside of your local
+computer/server. Unlike Git, GitHub is exclusively cloud-based. Also unlike Git, GitHub is a for-profit service (although basic repository-hosting features are available at no 
+cost to those who are willing to create a user profile, making GitHub a popular choice for open-source projects).
